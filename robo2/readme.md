@@ -1,1 +1,1 @@
-This is a bipede robot gait planning project based on imitation learning :）
+This is a biped robot gait planning project based on imitation learning :）
